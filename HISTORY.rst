@@ -1,6 +1,20 @@
 History
 =======
 
+0.2.2 (2017-07-07)
+------------------
+
+* Added --show-distance to cli
+* Fixed a bug where --tolerance was ignored in cli if testing a single image
+* Added benchmark.py to examples
+
+
+0.2.1 (2017-07-03)
+------------------
+
+* Added --tolerance to cli
+
+
 0.2.0 (2017-06-03)
 ------------------
 
